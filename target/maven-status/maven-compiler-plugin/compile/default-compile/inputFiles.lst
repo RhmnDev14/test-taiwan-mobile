@@ -1,0 +1,13 @@
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/exception/GlobalExceptionHandler.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/dto/ApiResponse.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/store/UserStoreRepository.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/config/OpenApiConfig.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/store/UserStore.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/dto/LoginRequest.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/controller/AuthController.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/dto/RegisterRequest.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/service/AuthService.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/service/AuthServiceImpl.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/model/User.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/UserAuthApplication.java
+/Users/a/Documents/code/test-taiwan-mobile/src/main/java/com/auth/config/SecurityConfig.java
